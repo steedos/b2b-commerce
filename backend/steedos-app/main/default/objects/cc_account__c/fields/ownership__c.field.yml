@@ -1,0 +1,24 @@
+name: ownership__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 所有权
+multiple: false
+omit: false
+options:
+  - label: 上市
+    value: public
+  - label: 私人
+    value: Private
+  - label: 子公司
+    value: Subsidiary
+  - label: 其他
+    value: other
+readonly: false
+required: false
+searchable: false
+sort_no: 210
+sortable: false
+type: select

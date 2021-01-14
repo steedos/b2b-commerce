@@ -1,0 +1,17 @@
+name: all
+columns:
+  - field: name
+    wrap: false
+  - field: accountgroupid__c
+    wrap: false
+  - field: themename__c
+    wrap: false
+  - field: desc__c
+    wrap: false
+filter_scope: space
+filters: []
+label: 所有
+scrolling_mode: standard
+shared: true
+show_count: false
+type: grid

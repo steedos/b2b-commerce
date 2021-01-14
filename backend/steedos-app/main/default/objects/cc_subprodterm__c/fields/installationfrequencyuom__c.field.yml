@@ -1,0 +1,17 @@
+name: installationfrequencyuom__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 与计量单位结合使用时的分期付款/计费频率。
+is_name: false
+is_wide: false
+label: 分期付款频率
+omit: false
+precision: 10
+readonly: false
+required: false
+scale: 2
+searchable: false
+sort_no: 270
+sortable: false
+type: number

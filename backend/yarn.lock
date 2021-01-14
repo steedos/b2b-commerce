@@ -1100,6 +1100,15 @@
     redux "^4.0.4"
     redux-thunk "^2.3.0"
 
+"@steedos/word-template@^1.23.0-alpha.11":
+  version "1.23.0-alpha.11"
+  resolved "https://registry.npm.taobao.org/@steedos/word-template/download/@steedos/word-template-1.23.0-alpha.11.tgz#60f22d865cdf5dc5fa8503ed948373a5e0a73107"
+  integrity sha1-YPIthlzfXcX6hQPtlINzpeCnMQc=
+  dependencies:
+    docxtemplater "^3.19.7"
+    dotenv-flow "^3.2.0"
+    jszip "^2.6.1"
+
 "@tailwindui/react@^0.1.1":
   version "0.1.1"
   resolved "https://registry.npm.taobao.org/@tailwindui/react/download/@tailwindui/react-0.1.1.tgz#0376d4080bb260e3e8dd116349d85dfaa7628ec6"
@@ -3164,6 +3173,13 @@ dir-glob@^2.2.2:
   dependencies:
     path-type "^3.0.0"
 
+docxtemplater@^3.19.7:
+  version "3.19.9"
+  resolved "https://registry.npm.taobao.org/docxtemplater/download/docxtemplater-3.19.9.tgz#dc017641a6326b1135a462be6a32925ea11cbf52"
+  integrity sha1-3AF2QaYyaxE1pGK+ajKSXqEcv1I=
+  dependencies:
+    xmldom "^0.4.0"
+
 domain-browser@^1.1.7:
   version "1.2.0"
   resolved "https://registry.npm.taobao.org/domain-browser/download/domain-browser-1.2.0.tgz#3d31f50191a6749dd1375a7f522e823d42e54eda"
@@ -4820,6 +4836,13 @@ jsprim@^1.2.2:
     extsprintf "1.3.0"
     json-schema "0.2.3"
     verror "1.10.0"
+
+jszip@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.npm.taobao.org/jszip/download/jszip-2.6.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fjszip%2Fdownload%2Fjszip-2.6.1.tgz#b88f3a7b2e67a2a048152982c7a3756d9c4828f0"
+  integrity sha1-uI86ey5noqBIFSmCx6N1bZxIKPA=
+  dependencies:
+    pako "~1.0.2"
 
 jszip@^3.1.5:
   version "3.5.0"
@@ -8603,7 +8626,7 @@ xmlbuilder@~11.0.0:
   resolved "https://registry.npm.taobao.org/xmlbuilder/download/xmlbuilder-11.0.1.tgz?cache=0&sync_timestamp=1600349105009&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fxmlbuilder%2Fdownload%2Fxmlbuilder-11.0.1.tgz#be9bae1c8a046e76b31127726347d0ad7002beb3"
   integrity sha1-vpuuHIoEbnazESdyY0fQrXACvrM=
 
-xmldom@0.2.1, xmldom@=0.1.15, xmldom@=0.1.19, xmldom@^0.3.0, "xmldom@github:auth0/xmldom#v0.1.19-auth0_1", xmldom@~0.1.15:
+xmldom@0.2.1, xmldom@=0.1.15, xmldom@=0.1.19, xmldom@^0.3.0, xmldom@^0.4.0, xmldom@auth0/xmldom#v0.1.19-auth0_1, xmldom@~0.1.15:
   version "0.2.1"
   resolved "https://registry.npm.taobao.org/xmldom/download/xmldom-0.2.1.tgz#cac9465066f161e1c3302793ea4dbe59c518274f"
   integrity sha1-yslGUGbxYeHDMCeT6k2+WcUYJ08=

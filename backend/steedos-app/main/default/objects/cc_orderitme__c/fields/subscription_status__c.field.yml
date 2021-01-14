@@ -1,0 +1,23 @@
+name: subscription_status__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 订阅的状态（如果此订单商品为订阅）。
+is_name: false
+is_wide: false
+label: 订阅状态
+multiple: false
+omit: false
+options:
+  - label: 取消
+    value: Cancelled
+  - label: 错误
+    value: Error
+  - label: 重新排序
+    value: Reordered
+readonly: false
+required: false
+searchable: false
+sort_no: 480
+sortable: false
+type: select

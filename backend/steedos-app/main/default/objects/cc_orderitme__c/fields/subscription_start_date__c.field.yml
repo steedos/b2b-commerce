@@ -1,0 +1,15 @@
+name: subscription_start_date__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 此订阅开始日期。
+is_name: false
+is_wide: false
+label: 订阅开始日期
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 490
+sortable: false
+type: date

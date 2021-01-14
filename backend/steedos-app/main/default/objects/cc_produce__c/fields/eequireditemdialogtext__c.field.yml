@@ -1,0 +1,15 @@
+name: eequireditemdialogtext__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 如果该产品有任何必须的物品，则当用户将其添加到购物车时，该对话框中将显示文本。
+is_name: false
+is_wide: false
+label: 必填项对话框文本
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 360
+sortable: false
+type: text

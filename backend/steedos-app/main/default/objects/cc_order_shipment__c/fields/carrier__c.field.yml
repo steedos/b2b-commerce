@@ -1,0 +1,26 @@
+name: carrier__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 运送快递
+multiple: false
+omit: false
+options:
+  - label: 联邦快递
+    value: Fedex
+  - label: 圆通快递
+    value: YTO Express
+  - label: 中通快递
+    value: ZTO Express
+  - label: 顺丰快递
+    value: SF Express
+  - label: 韵达快递
+    value: YunDa Express
+readonly: false
+required: false
+searchable: false
+sort_no: 130
+sortable: false
+type: select

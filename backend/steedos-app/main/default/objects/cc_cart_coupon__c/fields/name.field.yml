@@ -1,0 +1,14 @@
+name: name
+filterable: false
+hidden: false
+index: true
+is_name: false
+is_wide: false
+label: 购物车优惠券名称
+omit: false
+readonly: false
+required: true
+searchable: true
+sort_no: 350
+sortable: false
+type: text

@@ -1,0 +1,17 @@
+name: subscription_frequency__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 订阅的频率（天）。如果未通过UI选择，则此值默认为产品的订阅频率。
+is_name: false
+is_wide: false
+label: 订阅频率
+omit: false
+precision: 4
+readonly: false
+required: false
+scale: 0
+searchable: false
+sort_no: 470
+sortable: false
+type: number

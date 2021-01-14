@@ -1,0 +1,16 @@
+name: splitsource__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 分割来源
+multiple: false
+omit: false
+readonly: false
+reference_to: cc_orderitme__c
+required: false
+searchable: false
+sort_no: 330
+sortable: false
+type: lookup

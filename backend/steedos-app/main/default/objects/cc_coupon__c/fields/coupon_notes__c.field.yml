@@ -1,0 +1,16 @@
+name: coupon_notes__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 请输入优惠券应完成的描述。
+is_name: false
+is_wide: false
+label: 优惠券
+omit: false
+readonly: false
+required: false
+rows: 2
+searchable: false
+sort_no: 240
+sortable: false
+type: textarea

@@ -1,0 +1,26 @@
+name: tab__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 标签
+multiple: false
+omit: false
+options:
+  - label: 产品信息
+    value: Product_Info
+  - label: 规格
+    value: Specifications
+  - label: 配送信息
+    value: Shipping_Info
+  - label: 购买原因
+    value: Why_Product
+  - label: 附加信息
+    value: Additional_Information
+readonly: false
+required: false
+searchable: false
+sort_no: 140
+sortable: false
+type: select

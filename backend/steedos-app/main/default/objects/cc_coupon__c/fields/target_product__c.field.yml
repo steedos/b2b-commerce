@@ -1,0 +1,16 @@
+name: target_product__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 目标产品
+multiple: false
+omit: false
+readonly: false
+reference_to: cc_produce__c
+required: false
+searchable: false
+sort_no: 280
+sortable: false
+type: lookup

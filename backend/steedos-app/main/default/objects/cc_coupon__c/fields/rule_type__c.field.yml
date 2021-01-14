@@ -1,0 +1,20 @@
+name: rule_type__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 规则类型
+multiple: false
+omit: false
+options:
+  - label: 购物车总计
+    value: CartTotal
+  - label: 一般
+    value: General
+readonly: false
+required: false
+searchable: false
+sort_no: 160
+sortable: false
+type: select

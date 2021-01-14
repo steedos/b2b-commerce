@@ -1,0 +1,17 @@
+name: shippingweight__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 必须填写此项数据才能向购买用户显示运送选项 (Fedex)
+is_name: false
+is_wide: false
+label: 运输重量 (磅)
+omit: false
+precision: 10
+readonly: false
+required: false
+scale: 2
+searchable: false
+sort_no: 380
+sortable: false
+type: number

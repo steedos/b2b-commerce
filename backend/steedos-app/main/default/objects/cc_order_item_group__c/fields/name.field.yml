@@ -1,0 +1,15 @@
+name: name
+filterable: false
+formula: '{00000}'
+hidden: false
+index: true
+is_name: false
+is_wide: false
+label: Name
+omit: false
+readonly: false
+required: true
+searchable: true
+sort_no: 100
+sortable: false
+type: autonumber

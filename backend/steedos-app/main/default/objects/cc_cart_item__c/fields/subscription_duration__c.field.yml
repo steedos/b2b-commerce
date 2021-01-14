@@ -1,0 +1,17 @@
+name: subscription_duration__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 订阅的持续时间（以月为单位）。如果该字段为空白，则此购物车项不是已订阅的项目。
+is_name: false
+is_wide: false
+label: 订阅期限（以月为单位）
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 0
+searchable: false
+sort_no: 480
+sortable: false
+type: number

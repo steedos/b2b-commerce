@@ -1,0 +1,8 @@
+name: CC账户组.用户
+allowCreate: false
+allowDelete: true
+allowEdit: false
+allowRead: true
+modifyAllRecords: false
+permission_set_id: user
+viewAllRecords: false

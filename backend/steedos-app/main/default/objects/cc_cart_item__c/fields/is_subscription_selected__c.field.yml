@@ -1,0 +1,14 @@
+name: is_subscription_selected__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 是否订阅
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 460
+sortable: false
+type: boolean

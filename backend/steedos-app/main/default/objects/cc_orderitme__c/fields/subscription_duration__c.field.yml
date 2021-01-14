@@ -1,0 +1,17 @@
+name: subscription_duration__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 此订阅持续的时间（以月为单位）。仅使用于订购的商品。
+is_name: false
+is_wide: false
+label: 订阅期限
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 0
+searchable: false
+sort_no: 520
+sortable: false
+type: number

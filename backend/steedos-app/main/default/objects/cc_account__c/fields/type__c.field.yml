@@ -1,0 +1,30 @@
+name: type__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 类型
+multiple: false
+omit: false
+options:
+  - label: 展望
+    value: Prospect
+  - label: 客户-直接
+    value: CustomerDirec
+  - label: 客户-渠道
+    value: CustomerChannel
+  - label: 经销商
+    value: Reseller
+  - label: 安装合作伙伴
+    value: InstallationPartner
+  - label: 技术合作伙伴
+    value: TechnologyPartner
+  - label: 其他
+    value: other
+readonly: false
+required: false
+searchable: false
+sort_no: 200
+sortable: false
+type: select

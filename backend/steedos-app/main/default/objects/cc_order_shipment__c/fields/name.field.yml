@@ -1,0 +1,15 @@
+name: name
+filterable: false
+formula: 'E-{0000}'
+hidden: false
+index: true
+is_name: false
+is_wide: false
+label: 订单发货编号
+omit: false
+readonly: false
+required: false
+searchable: true
+sort_no: 100
+sortable: false
+type: autonumber

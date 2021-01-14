@@ -1,0 +1,15 @@
+name: orderfrequencyuom__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 订单频率的计量单位。可能的值为每日，每周，每月，每年。
+is_name: false
+is_wide: false
+label: 订单频率UOM
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 280
+sortable: false
+type: text

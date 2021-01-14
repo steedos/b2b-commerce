@@ -1,0 +1,17 @@
+name: productgroup__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 将此组件映射到相关的产品分组。这主要用于动态套件中，在该套件中，符合产品被分组到单独的步骤或部分中。
+is_name: false
+is_wide: false
+label: 相关产品组
+multiple: false
+omit: false
+readonly: false
+reference_to: cc_ralated_productgroup__c
+required: false
+searchable: false
+sort_no: 200
+sortable: false
+type: lookup

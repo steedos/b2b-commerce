@@ -1,0 +1,15 @@
+name: name
+filterable: false
+formula: 'CP-{00000}'
+hidden: false
+index: true
+is_name: false
+is_wide: false
+label: 复合产品名称
+omit: false
+readonly: false
+required: false
+searchable: true
+sort_no: 100
+sortable: false
+type: autonumber

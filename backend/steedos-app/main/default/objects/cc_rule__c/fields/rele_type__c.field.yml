@@ -1,0 +1,24 @@
+name: rele_type__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 规则类型
+multiple: false
+omit: false
+options:
+  - label: 结合
+    value: Combination
+  - label: 普通
+    value: General
+  - label: 推移
+    value: TieredHistory
+  - label: 加强
+    value: Stepped
+readonly: false
+required: false
+searchable: false
+sort_no: 150
+sortable: false
+type: select

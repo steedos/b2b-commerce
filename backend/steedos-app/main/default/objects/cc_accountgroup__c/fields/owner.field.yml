@@ -1,0 +1,14 @@
+name: owner
+filterable: false
+hidden: true
+index: true
+is_name: false
+is_wide: false
+label: 所属人
+multiple: false
+omit: true
+readonly: false
+required: false
+searchable: false
+sort_no: 100
+sortable: true

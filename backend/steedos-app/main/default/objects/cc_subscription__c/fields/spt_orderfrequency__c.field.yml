@@ -1,0 +1,16 @@
+name: spt_orderfrequency__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: SPT订单频率
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 2
+searchable: false
+sort_no: 460
+sortable: false
+type: number

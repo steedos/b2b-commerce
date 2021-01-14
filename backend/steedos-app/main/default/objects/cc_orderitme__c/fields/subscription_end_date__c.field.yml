@@ -1,0 +1,15 @@
+name: subscription_end_date__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 确定订阅结束日期，如果次订阅设置为自动续订，则延长订阅结束日期。
+is_name: false
+is_wide: false
+label: 订阅结束日期
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 510
+sortable: false
+type: date

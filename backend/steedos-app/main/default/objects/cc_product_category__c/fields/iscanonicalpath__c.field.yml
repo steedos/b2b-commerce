@@ -1,0 +1,15 @@
+name: iscanonicalpath__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 将此类别标记为产品的规范路径。这用于确定SEO友好URL。
+is_name: false
+is_wide: false
+label: 规范路径
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 150
+sortable: false
+type: boolean

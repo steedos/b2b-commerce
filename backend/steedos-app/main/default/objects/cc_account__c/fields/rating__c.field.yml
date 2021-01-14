@@ -1,0 +1,22 @@
+name: rating__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 评分
+multiple: false
+omit: false
+options:
+  - label: 冷
+    value: hot
+  - label: 暖
+    value: warm
+  - label: 热
+    value: cold
+readonly: false
+required: false
+searchable: false
+sort_no: 120
+sortable: false
+type: select

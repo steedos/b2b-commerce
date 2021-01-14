@@ -1,0 +1,15 @@
+name: name
+filterable: false
+formula: '{00000}'
+hidden: false
+index: true
+is_name: false
+is_wide: false
+label: 类别规格编号
+omit: false
+readonly: false
+required: false
+searchable: true
+sort_no: 300
+sortable: false
+type: autonumber

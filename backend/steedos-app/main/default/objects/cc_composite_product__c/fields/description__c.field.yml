@@ -1,0 +1,16 @@
+name: description__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 包含描述复合材料与其副产品的关系的所有参考文本。
+is_name: false
+is_wide: true
+label: 描述
+omit: false
+readonly: false
+required: false
+rows: 2
+searchable: false
+sort_no: 220
+sortable: false
+type: textarea

@@ -1,0 +1,18 @@
+name: storefront__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 店面
+multiple: false
+omit: false
+options:
+  - label: 默认储存
+    value: moren
+readonly: false
+required: false
+searchable: false
+sort_no: 150
+sortable: false
+type: select

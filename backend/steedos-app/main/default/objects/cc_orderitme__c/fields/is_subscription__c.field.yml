@@ -1,0 +1,15 @@
+name: is_subscription__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 指示该商品是否订购。
+is_name: false
+is_wide: false
+label: 订阅
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 460
+sortable: false
+type: boolean

@@ -1,0 +1,17 @@
+name: order_count__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 订阅中要下达/运送的订单数。
+is_name: false
+is_wide: false
+label: 订单数
+omit: false
+precision: 10
+readonly: false
+required: false
+scale: 0
+searchable: false
+sort_no: 290
+sortable: false
+type: number

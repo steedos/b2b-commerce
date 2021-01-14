@@ -1,0 +1,22 @@
+name: itemstatus__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 项目状态
+multiple: false
+omit: false
+options:
+  - label: 可用
+    value: Available
+  - label: 无效
+    value: Invalid
+  - label: 预购
+    value: Pre-Order
+readonly: false
+required: false
+searchable: false
+sort_no: 320
+sortable: false
+type: select

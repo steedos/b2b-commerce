@@ -1,0 +1,24 @@
+name: mediatype__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 媒体类型
+multiple: false
+omit: false
+options:
+  - label: 备用图片
+    value: Alternate_Images
+  - label: 数据表
+    value: database
+  - label: 安全文件
+    value: Safety_Documents
+  - label: 产品图片
+    value: product_images
+readonly: false
+required: false
+searchable: false
+sort_no: 180
+sortable: false
+type: select

@@ -1,0 +1,26 @@
+name: pagelocation__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 页面位置
+multiple: false
+omit: false
+options:
+  - label: 登录页面
+    value: Landing
+  - label: 产品信息
+    value: Product
+  - label: 购物车页面
+    value: Shopping_Cart
+  - label: 订单评审
+    value: Order Review
+  - label: 订单确认
+    value: Order Confirmation
+readonly: false
+required: false
+searchable: false
+sort_no: 170
+sortable: false
+type: select

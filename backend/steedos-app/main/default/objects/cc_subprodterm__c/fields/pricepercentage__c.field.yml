@@ -1,0 +1,16 @@
+name: pricepercentage__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 经常性价格百分比
+omit: false
+precision: 14
+readonly: false
+required: false
+scale: 4
+searchable: false
+sort_no: 240
+sortable: false
+type: number

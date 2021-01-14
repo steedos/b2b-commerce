@@ -1,0 +1,14 @@
+name: encryptedid__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 加密的ID
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 160
+sortable: false
+type: text

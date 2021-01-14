@@ -1,0 +1,17 @@
+name: subscription_frequency__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 确定新订单下达的频率（以月为单位）（如果该订单项是订阅）。
+is_name: false
+is_wide: false
+label: 订阅评率
+omit: false
+precision: 4
+readonly: false
+required: false
+scale: 0
+searchable: false
+sort_no: 500
+sortable: false
+type: number

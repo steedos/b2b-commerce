@@ -1,0 +1,22 @@
+name: industry__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 行业
+multiple: false
+omit: false
+options:
+  - label: 农业
+    value: Agriculture
+  - label: 服装
+    value: Apparel
+  - label: 金融
+    value: Banking
+readonly: false
+required: false
+searchable: false
+sort_no: 220
+sortable: false
+type: select

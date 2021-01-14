@@ -1,0 +1,16 @@
+name: shipto__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 运送到
+multiple: false
+omit: false
+readonly: false
+reference_to: cc_contact_address__c
+required: false
+searchable: false
+sort_no: 130
+sortable: false
+type: lookup

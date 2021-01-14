@@ -30,3 +30,5 @@ tenant:
   enable_bind_mobile: false
 plugins:
   - "@steedos/accounts"
+  - "@steedos/metadata-api"
+  - "@steedos/word-template"

@@ -1,0 +1,16 @@
+name: seller__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 卖方
+multiple: false
+omit: false
+readonly: false
+reference_to: seller__c
+required: false
+searchable: false
+sort_no: 290
+sortable: false
+type: lookup

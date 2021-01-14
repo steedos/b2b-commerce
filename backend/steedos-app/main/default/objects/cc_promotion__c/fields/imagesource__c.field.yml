@@ -1,0 +1,24 @@
+name: imagesource__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 图片来源
+multiple: false
+omit: false
+options:
+  - label: 附件
+    value: attachment
+  - label: URL
+    value: url
+  - label: 静态资源
+    value: Static Resource
+  - label: 覆盖静态资源
+    value: Override_Resource
+readonly: false
+required: false
+searchable: false
+sort_no: 180
+sortable: false
+type: select

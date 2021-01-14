@@ -1,0 +1,24 @@
+name: status__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 状态
+multiple: false
+omit: false
+options:
+  - label: 有现货
+    value: In_Stock
+  - label: 缺货
+    value: Out of Stock
+  - label: 预购
+    value: Pre Order
+  - label: 延期交货
+    value: Back Order
+readonly: false
+required: false
+searchable: false
+sort_no: 150
+sortable: false
+type: select

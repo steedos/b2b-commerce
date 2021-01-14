@@ -1,0 +1,20 @@
+name: type__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 类型
+multiple: false
+omit: false
+options:
+  - label: 精选
+    value: Featured
+  - label: 聚焦
+    value: Spotlight
+readonly: false
+required: false
+searchable: false
+sort_no: 160
+sortable: false
+type: select
