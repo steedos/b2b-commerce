@@ -1,0 +1,25 @@
+name: B2B Commerce
+code: commerce
+icon_slds: product_item
+is_creator: true
+is_new_window: false
+is_use_ie: false
+is_use_iframe: false
+mobile: false
+oauth2_enabled: false
+oauth2_logout_enabled: false
+objects:
+  - cc_accountgroup__c
+  - contacts
+  - cc_order__c
+  - cc_category__c
+  - cc_produce__c
+  - cc_pricelist__c
+  - cc_coupon__c
+  - cc_featured_product__c
+  - cc_promotion__c
+  - cc_menu__c
+saml_enabled: false
+saml_logout_enabled: false
+sort: 9100
+visible: true

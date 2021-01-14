@@ -1,16 +1,20 @@
-name: product__c
+name: filter_ype__c
 filterable: false
 hidden: false
 index: false
 is_name: false
 is_wide: false
-label: 产品项目
+label: 过滤方式
 multiple: false
 omit: false
+options:
+  - label: 包含
+    value: Inclusive
+  - label: 不包含
+    value: Exclusive
 readonly: false
-reference_to: cc_product__c
 required: false
 searchable: false
-sort_no: 120
+sort_no: 160
 sortable: false
-type: lookup
+type: select

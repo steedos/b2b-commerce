@@ -1,4 +1,4 @@
-name: cc_produce__c
+name: cc_promotionaccountgroupfilter__c
 custom: true
 enable_api: true
 enable_audit: true
@@ -12,6 +12,6 @@ enable_search: true
 enable_share: false
 enable_tasks: false
 enable_workflow: false
-icon: product
+icon: sales_path
 is_enable: true
-label: CC产品
+label: CC推广账户组

@@ -8,7 +8,7 @@ label: 产品
 multiple: false
 omit: false
 readonly: false
-reference_to: cc_produce__c
+reference_to: cc_product__c
 required: false
 searchable: false
 sort_no: 230
