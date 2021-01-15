@@ -1,0 +1,26 @@
+name: rating_code__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 等级码
+multiple: false
+omit: false
+options:
+  - label: '1'
+    value: '1'
+  - label: '2'
+    value: '2'
+  - label: '3'
+    value: '3'
+  - label: '4'
+    value: '4'
+  - label: '5'
+    value: '5'
+readonly: false
+required: false
+searchable: false
+sort_no: 120
+sortable: false
+type: select
