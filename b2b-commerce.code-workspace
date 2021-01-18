@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "backend",
+			"path": "backend"
+		},
+		{
+			"name": "b2b-commerce",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
