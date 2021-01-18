@@ -1,0 +1,22 @@
+name: product_status__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 产品状态
+multiple: false
+omit: false
+options:
+  - label: 封锁
+    value: Blocked
+  - label: 可用
+    value: Released
+  - label: 制作中
+    value: Creation
+readonly: false
+required: false
+searchable: false
+sort_no: 180
+sortable: false
+type: select

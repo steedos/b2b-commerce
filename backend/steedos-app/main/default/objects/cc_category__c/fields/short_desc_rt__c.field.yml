@@ -1,0 +1,14 @@
+name: short_desc_rt__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: true
+label: 简短描述
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 200
+sortable: false
+type: html

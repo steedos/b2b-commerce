@@ -1,0 +1,14 @@
+name: product_detail_display_name_rt__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 产品详细信息显示名称RT
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 370
+sortable: false
+type: html

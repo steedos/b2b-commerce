@@ -1,0 +1,14 @@
+name: lgnore_installment_frequency_fields__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 忽略安装频率字段
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 290
+sortable: false
+type: boolean

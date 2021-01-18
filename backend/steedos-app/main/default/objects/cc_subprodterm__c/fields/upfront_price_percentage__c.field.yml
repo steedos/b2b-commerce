@@ -1,0 +1,16 @@
+name: upfront_price_percentage__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 前期价格百分比
+omit: false
+precision: 14
+readonly: false
+required: false
+scale: 4
+searchable: false
+sort_no: 260
+sortable: false
+type: number

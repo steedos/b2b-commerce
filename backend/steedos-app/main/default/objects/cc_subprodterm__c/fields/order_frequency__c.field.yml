@@ -1,0 +1,17 @@
+name: order_frequency__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 与UOM结合使用时，订购频率是执行/发送服务/产品的频率。必须是整数。
+is_name: false
+is_wide: true
+label: 订单频率
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 2
+searchable: false
+sort_no: 300
+sortable: false
+type: number

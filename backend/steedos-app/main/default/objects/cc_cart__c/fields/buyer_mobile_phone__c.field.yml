@@ -1,0 +1,14 @@
+name: buyer_mobile_phone__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 移动电话
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 320
+sortable: false
+type: text

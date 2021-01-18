@@ -1,0 +1,16 @@
+name: exp_year__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 到期年份
+omit: false
+precision: 4
+readonly: false
+required: false
+scale: 0
+searchable: false
+sort_no: 250
+sortable: false
+type: number

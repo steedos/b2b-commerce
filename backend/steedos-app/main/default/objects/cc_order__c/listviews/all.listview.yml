@@ -4,13 +4,13 @@ columns:
     wrap: false
   - field: account__c
     wrap: false
-  - field: orderdate__c
+  - field: order_date__c
     wrap: false
   - field: user__c
     wrap: false
-  - field: buyerfirstname__c
+  - field: buyer_first_name__c
     wrap: false
-  - field: buyerlastname__c
+  - field: buyer_last_name__c
     wrap: false
 filter_scope: space
 filters: []

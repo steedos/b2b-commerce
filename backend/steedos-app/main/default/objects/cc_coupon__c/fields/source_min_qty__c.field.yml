@@ -1,0 +1,16 @@
+name: source_min_qty__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 源最小数量
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 2
+searchable: false
+sort_no: 350
+sortable: false
+type: number

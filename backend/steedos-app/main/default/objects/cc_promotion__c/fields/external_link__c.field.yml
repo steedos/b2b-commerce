@@ -1,0 +1,14 @@
+name: external_link__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: true
+label: 外部链接
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 240
+sortable: false
+type: url

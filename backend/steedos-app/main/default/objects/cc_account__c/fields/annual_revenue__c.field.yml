@@ -1,0 +1,16 @@
+name: annual_revenue__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 年收入
+omit: false
+precision: 18
+readonly: false
+required: false
+scale: 0
+searchable: false
+sort_no: 240
+sortable: false
+type: number

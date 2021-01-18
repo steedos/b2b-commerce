@@ -1,0 +1,16 @@
+name: parent_order_item__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 上级订单
+multiple: false
+omit: false
+readonly: false
+reference_to: orderitme__c
+required: false
+searchable: false
+sort_no: 240
+sortable: false
+type: lookup

@@ -1,0 +1,16 @@
+name: parent_attribute__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 父属性
+multiple: false
+omit: false
+readonly: false
+reference_to: cc_attribute__c
+required: false
+searchable: false
+sort_no: 150
+sortable: false
+type: lookup

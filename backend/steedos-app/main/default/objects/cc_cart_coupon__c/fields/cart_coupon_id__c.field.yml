@@ -1,0 +1,14 @@
+name: cart_coupon_id__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 购物车优惠券Id
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 150
+sortable: false
+type: text

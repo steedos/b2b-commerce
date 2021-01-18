@@ -1,0 +1,15 @@
+name: auto_renew__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 检查以使订阅自动更新。
+is_name: false
+is_wide: false
+label: 自动更新
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 220
+sortable: false
+type: boolean

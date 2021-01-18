@@ -1,0 +1,30 @@
+name: order_item_status__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 订单项状态
+multiple: false
+omit: false
+options:
+  - label: 订单提交
+    value: OrderSubmitted
+  - label: 取消提交
+    value: CancelSubmitted
+  - label: 作废
+    value: Cancelled
+  - label: 发货
+    value: Shipped
+  - label: 返回提交
+    value: ReturnSubmitted
+  - label: 进行中
+    value: InProcess
+  - label: 暂停
+    value: OnHold
+readonly: false
+required: false
+searchable: false
+sort_no: 260
+sortable: false
+type: select

@@ -1,0 +1,16 @@
+name: order_seller__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 订单卖家
+multiple: false
+omit: false
+readonly: false
+reference_to: cc_seller__c
+required: false
+searchable: false
+sort_no: 350
+sortable: false
+type: lookup

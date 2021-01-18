@@ -1,0 +1,22 @@
+name: display_type__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 显示类型
+multiple: false
+omit: false
+options:
+  - label: 单选
+    value: Single-Select
+  - label: 多选
+    value: Multi-Select
+  - label: 图像选择
+    value: Image-Select
+readonly: false
+required: false
+searchable: false
+sort_no: 130
+sortable: false
+type: select

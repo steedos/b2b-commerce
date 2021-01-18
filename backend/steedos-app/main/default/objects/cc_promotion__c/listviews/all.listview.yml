@@ -2,7 +2,7 @@ name: all
 columns:
   - field: name
     wrap: false
-  - field: locationtype__c
+  - field: location_type__c
     wrap: false
   - field: pagelocation__c
     wrap: false

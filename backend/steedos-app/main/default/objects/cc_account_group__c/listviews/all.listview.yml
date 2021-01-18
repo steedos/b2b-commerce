@@ -2,9 +2,9 @@ name: all
 columns:
   - field: name
     wrap: false
-  - field: accountgroupid__c
+  - field: account_group_id__c
     wrap: false
-  - field: themename__c
+  - field: theme_name__c
     wrap: false
   - field: desc__c
     wrap: false
