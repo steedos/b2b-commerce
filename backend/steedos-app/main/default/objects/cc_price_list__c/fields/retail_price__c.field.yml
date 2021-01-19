@@ -1,0 +1,16 @@
+name: retail_price__c
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: 零售价
+multiple: false
+omit: false
+readonly: false
+reference_to: cc_price_list_items__c
+required: false
+searchable: false
+sort_no: 220
+sortable: false
+type: lookup
