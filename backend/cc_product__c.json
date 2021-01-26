@@ -1,0 +1,476 @@
+{
+    "records": [
+        {
+            "name": "帽子",
+            "storefront__c": [
+                "moren"
+            ],
+            "start_date__c": "2021-01-01T00:00:00.000Z",
+            "productid__c": "001",
+            "end_date__c": "2021-01-31T00:00:00.000Z",
+            "quantityperunit__c": 0,
+            "productstatus__c": "Released",
+            "productyype__c": "Plan",
+            "leadtime__c": "2021-02-15T00:00:00.000Z",
+            "unitofmeasure__c": "Each",
+            "availabilitymessage__c": "jsagiodlhbdkjbckuadscghjds hdsviu",
+            "taxrateid__c": "45512552144",
+            "primaryatt__c": "AtfC8B63nCbnnp3zS",
+            "secondaryattr__c": "AtfC8B63nCbnnp3zS",
+            "tertiaryattr__c": "AtfC8B63nCbnnp3zS",
+            "unitofmeasurelabe__c": "层",
+            "shortdesc__c": "dsv aisuvbsyofugawh ouasegbifj wabvnds vwh ouasegbifj wabvnds v",
+            "shortdescrt__c": "<p><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><br></p>",
+            "longdesc__c": "j idfhiebi lwablawubjfb shwie",
+            "longdescrt__c": "<span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span><span style=\"font-weight: bolder; font-size: 13px; background-color: rgb(255, 255, 255);\">dsv aisuvbsyofugawh ouasegbifj wabvnds v<span style=\"font-size: 13px; background-color: rgb(255, 255, 255);\">wh ouasegbifj wabvnds v</span></span>",
+            "productweight__c": 10,
+            "shippingweight__c": 0,
+            "dryiceweight__c": 10,
+            "hazardousflag__c": false,
+            "coolerpakdlag__c": true,
+            "shippedindividually__c": true,
+            "dryice__c": true,
+            "shipseparately__c": true,
+            "groundflag__c": true,
+            "overnightflag__c": false,
+            "availability_message__c": "<b>skjdchalkcbbacd</b>",
+            "coolerpak_flag__c": true,
+            "dryice_weight__c": 0,
+            "ground_flag__c": true,
+            "hazardous_flag__c": true,
+            "lead_time__c": "2021-03-20T00:00:00.000Z",
+            "overnight_flag__c": true,
+            "prices__c": "s2hwZjngFzKq3ATSD",
+            "product_id__c": "5498125",
+            "product_status__c": "Released",
+            "product_type__c": "Plan",
+            "product_weight__c": 0,
+            "quantity_per_unit__c": 0,
+            "required_item_dialog_text__c": "ishiahs",
+            "seo_description__c": "product",
+            "seo_id__c": "4715",
+            "seo_keywords__c": "pro",
+            "seo_title__c": "product",
+            "ship_separately__c": true,
+            "shipped_individually__c": true,
+            "shipping_weight__c": 0,
+            "short_desc__c": "<p>This t-shirt is a must-have in your wardrobe, combining the timeless fit of a classic tee with an intricate embroidered detail that brings the shirt to a whole new level. It's soft and durable, so be prepared to have a new favorite t-shirt!<br /><br /></p>",
+            "short_desc_rt__c": "<div style=\"color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 16px; line-height: 22px; white-space: pre;\"><span style=\"color: #ce9178;\">&lt;p&gt;This&nbsp;t-shirt&nbsp;is&nbsp;a&nbsp;must-have&nbsp;in&nbsp;your&nbsp;wardrobe,&nbsp;combining&nbsp;the&nbsp;timeless&nbsp;fit&nbsp;of&nbsp;a&nbsp;classic&nbsp;tee&nbsp;with&nbsp;an&nbsp;intricate&nbsp;embroidered&nbsp;detail&nbsp;that&nbsp;brings&nbsp;the&nbsp;shirt&nbsp;to&nbsp;a&nbsp;whole&nbsp;new&nbsp;level.&nbsp;It's&nbsp;soft&nbsp;and&nbsp;durable,&nbsp;so&nbsp;be&nbsp;prepared&nbsp;to&nbsp;have&nbsp;a&nbsp;new&nbsp;favorite&nbsp;t-shirt!&lt;br&nbsp;/&gt;&lt;br&nbsp;/&gt;&lt;/p&gt;</span></div>",
+            "sku__c": "sjcg",
+            "tax_rate_id__c": "6548515157",
+            "unit_of_measure__c": "Each",
+            "unit_of_measure_label__c": "jgduagc",
+            "images__c": "hjZKFZbGKHw63ojto",
+            "product_options__c": "NCrC8Fci64ykbgnGa",
+            "attributes": {
+                "type": "cc_product__c",
+                "referenceId": "cc_product__cRef1"
+            },
+            "cc_featured_product__c.product__c__r": {
+                "records": [
+                    {
+                        "name": "feature_test",
+                        "sequence__c": 10,
+                        "enabled__c": true,
+                        "storefront__c": "moren",
+                        "type__c": "Featured",
+                        "featuredproductid__c": "1234",
+                        "description__c": "sgttyjjt",
+                        "descriptionrt__c": "<b>dsfewrdhtdhyrwhsdbsehhtvs4rw3</b>",
+                        "attributes": {
+                            "type": "cc_featured_product__c",
+                            "referenceId": "cc_featured_product__cRef1"
+                        }
+                    }
+                ]
+            },
+            "cc_product_category__c.product__c__r": {
+                "records": [
+                    {
+                        "sequence__c": 0,
+                        "category__c": [
+                            "cBZCMBJC6J5n6HNTY",
+                            "8E8kCqNeHjXy4QQNR"
+                        ],
+                        "iscanonicalpath__c": true,
+                        "start_date__c": "2021-01-29T00:00:00.000Z",
+                        "end_date__c": "2021-02-28T00:00:00.000Z",
+                        "name": "PC-00001",
+                        "is_canonical_path__c": true,
+                        "attributes": {
+                            "type": "cc_product_category__c",
+                            "referenceId": "cc_product_category__cRef1"
+                        },
+                        "cc_category__c.category__c__r": {
+                            "records": []
+                        }
+                    }
+                ]
+            },
+            "cc_product_guide__c.product__c__r": {
+                "records": [
+                    {
+                        "displaytype__c": "Single-Select",
+                        "required__c": false,
+                        "relatedproductgroup__c": "rgAizSnycRDqMYdf2",
+                        "sequence__c": 30,
+                        "name": "PG-00001",
+                        "attributes": {
+                            "type": "cc_product_guide__c",
+                            "referenceId": "cc_product_guide__cRef1"
+                        },
+                        "cc_ralated_product_group__c.related_product_group__c__r": {
+                            "records": []
+                        }
+                    }
+                ]
+            },
+            "cc_product_media__c.product__c__r": {
+                "records": [
+                    {
+                        "filepath__c": "https://cdn11.bigcommerce.com/s-7buacsh1p4/images/stencil/original/products/133/446/mockup-ae9a83b0__49881__04523.1610347038.png",
+                        "alt_message__c": "img1",
+                        "enabled__c": true,
+                        "start_date__c": "2021-01-30T00:00:00.000Z",
+                        "media_type__c": "product_images",
+                        "sequence__c": 0,
+                        "end_date__c": "2021-02-27T00:00:00.000Z",
+                        "product_media_source__c": "url",
+                        "url__c": "https://cdn11.bigcommerce.com/s-7buacsh1p4/images/stencil/original/products/133/446/mockup-ae9a83b0__49881__04523.1610347038.png",
+                        "name": "M-00001",
+                        "image_list__c": "hjZKFZbGKHw63ojto",
+                        "is_default__c": true,
+                        "attributes": {
+                            "type": "cc_product_media__c",
+                            "referenceId": "cc_product_media__cRef1"
+                        }
+                    },
+                    {
+                        "filepath__c": "https://cdn11.bigcommerce.com/s-7buacsh1p4/images/stencil/original/products/133/448/mockup-9a5bb91f__43139__23112.1610347038.png",
+                        "alt_message__c": "img2",
+                        "enabled__c": true,
+                        "start_date__c": "2021-01-21T00:00:00.000Z",
+                        "media_type__c": "product_images",
+                        "sequence__c": 0,
+                        "end_date__c": "2021-02-27T00:00:00.000Z",
+                        "product_media_source__c": "url",
+                        "url__c": "https://cdn11.bigcommerce.com/s-7buacsh1p4/images/stencil/original/products/133/448/mockup-9a5bb91f__43139__23112.1610347038.png",
+                        "name": "M-00002",
+                        "image_list__c": "hjZKFZbGKHw63ojto",
+                        "is_default__c": false,
+                        "attributes": {
+                            "type": "cc_product_media__c",
+                            "referenceId": "cc_product_media__cRef2"
+                        }
+                    }
+                ]
+            },
+            "cc_product_spec__c.product__c__r": {
+                "records": [
+                    {
+                        "spec_value__c": "Size",
+                        "spec__c": [
+                            "58Sgaa8An33Z9Thpo",
+                            "27Aqjbo659inKBYtS",
+                            "tNbjPALbH8LAoJx5s"
+                        ],
+                        "name": "PS-00001",
+                        "attributes": {
+                            "type": "cc_product_spec__c",
+                            "referenceId": "cc_product_spec__cRef1"
+                        },
+                        "cc_spec__c.spec__c__r": {
+                            "records": []
+                        }
+                    },
+                    {
+                        "spec_value__c": "Color",
+                        "spec__c": [
+                            "Pfpp8x8xtL7zcAL69",
+                            "9LfTR9sCsxEgfqKxA",
+                            "xud75pfM4BNuNbxWc"
+                        ],
+                        "name": "PS-00002",
+                        "attributes": {
+                            "type": "cc_product_spec__c",
+                            "referenceId": "cc_product_spec__cRef2"
+                        },
+                        "cc_spec__c.spec__c__r": {
+                            "records": []
+                        }
+                    }
+                ]
+            },
+            "cc_product_storefront__c.product__c__r": {
+                "records": [
+                    {
+                        "storefront__c": "产品店面",
+                        "shorturl__c": "www.baidu.com",
+                        "name": "PSF-00001",
+                        "attributes": {
+                            "type": "cc_product_storefront__c",
+                            "referenceId": "cc_product_storefront__cRef1"
+                        }
+                    }
+                ]
+            },
+            "cc_product_tab__c.product__c__r": {
+                "records": [
+                    {
+                        "sequence__c": 0,
+                        "tab__c": "Product_Info",
+                        "enabled__c": true,
+                        "locale__c": "info",
+                        "start_date__c": "2021-02-04T00:00:00.000Z",
+                        "end_date__c": "2021-03-10T00:00:00.000Z",
+                        "content__c": "激发vfuiwvhchjkuqieugfuw",
+                        "contentrt__c": "<b>激发vfuiwvhchjkuqieugfuw</b>",
+                        "name": "TAB-00001",
+                        "attributes": {
+                            "type": "cc_product_tab__c",
+                            "referenceId": "cc_product_tab__cRef1"
+                        }
+                    },
+                    {
+                        "sequence__c": 0,
+                        "tab__c": "Why_Product",
+                        "enabled__c": true,
+                        "name": "TAB-00005",
+                        "attributes": {
+                            "type": "cc_product_tab__c",
+                            "referenceId": "cc_product_tab__cRef2"
+                        }
+                    }
+                ]
+            },
+            "cc_review__c.product__c__r": {
+                "records": []
+            },
+            "cc_rule_source_sku__c.product__c__r": {
+                "records": [
+                    {
+                        "minqty__c": 10,
+                        "name": "rule_sku",
+                        "attributes": {
+                            "type": "cc_rule_source_sku__c",
+                            "referenceId": "cc_rule_source_sku__cRef1"
+                        },
+                        "cc_rule__c.rule__c__r": {
+                            "records": [
+                                {
+                                    "rule_name__c": "rule_product_test",
+                                    "target_relation__c": "SPEC",
+                                    "source_relation__c": "SPEC",
+                                    "rele_type__c": "General",
+                                    "rule_source__c": "Pricing",
+                                    "rule_minamt__c": 0,
+                                    "rule_minqty__c": 10,
+                                    "customertypecode__c": "dsjkbavb4522",
+                                    "start_date__c": "2021-01-14T00:00:00.000Z",
+                                    "end_date__c": "2021-03-11T00:00:00.000Z",
+                                    "enabled__c": true,
+                                    "name": "R-00001",
+                                    "attributes": {
+                                        "type": "cc_rule__c",
+                                        "referenceId": "cc_rule__cRef1"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "cc_subprodterm__c.product__c__r": {
+                "records": [
+                    {
+                        "name": "item_m",
+                        "enabled__c": true,
+                        "sequence__c": 0,
+                        "lgnore_installment_frequency_fields__c": false,
+                        "auto_renew__c": false,
+                        "installation_frequency__c": 0,
+                        "recurring_price_percentage__c": 0,
+                        "installation_count__c": 0,
+                        "upfront_price_percentage__c": 0,
+                        "installation_frequency_uom__c": 0,
+                        "order_count__c": 0,
+                        "order_frequency__c": 0,
+                        "sub_name__c": "CCSPT-00001",
+                        "attributes": {
+                            "type": "cc_subprodterm__c",
+                            "referenceId": "cc_subprodterm__cRef1"
+                        },
+                        "cc_subprodterm__c.sub_prod_term__c__r": {
+                            "records": []
+                        }
+                    }
+                ]
+            },
+            "cc_attribute__c.primary_attribute__c__r": {
+                "records": [
+                    {
+                        "name": "attr_test",
+                        "effectiveend__c": "2021-02-18T00:00:00.000Z",
+                        "start_date__c": "2021-01-04T00:00:00.000Z",
+                        "sequence__c": 0,
+                        "attributes": {
+                            "type": "cc_attribute__c",
+                            "referenceId": "cc_attribute__cRef1"
+                        },
+                        "cc_attribute__c.parent_attribute__c__r": {
+                            "records": []
+                        }
+                    }
+                ]
+            },
+            "cc_attribute__c.secondary_attr__c__r": {
+                "records": [
+                    {
+                        "name": "attr_test",
+                        "effectiveend__c": "2021-02-18T00:00:00.000Z",
+                        "start_date__c": "2021-01-04T00:00:00.000Z",
+                        "sequence__c": 0,
+                        "attributes": {
+                            "type": "cc_attribute__c",
+                            "referenceId": "cc_attribute__cRef1",
+                            "isDuplicate": true
+                        }
+                    }
+                ]
+            },
+            "cc_attribute__c.tertiary_attr__c__r": {
+                "records": [
+                    {
+                        "name": "attr_test",
+                        "effectiveend__c": "2021-02-18T00:00:00.000Z",
+                        "start_date__c": "2021-01-04T00:00:00.000Z",
+                        "sequence__c": 0,
+                        "attributes": {
+                            "type": "cc_attribute__c",
+                            "referenceId": "cc_attribute__cRef1",
+                            "isDuplicate": true
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "后台管理系统",
+            "start_date__c": "2021-01-25T00:00:00.000Z",
+            "end_date__c": "2021-02-27T00:00:00.000Z",
+            "quantity_per_unit__c": 0,
+            "product_status__c": "Released",
+            "product_type__c": "Plan",
+            "short_desc__c": "<p>A super-soft, form-fitting, breathable t-shirt with a slightly lower neckline than a classic t-shirt.</p>\\n<p>&bull; Tri-blend construction (50% polyester/25% cotton/25% rayon)<br />&bull; Pre-shrunk fabric<br />&bull; 40 singles thread weight<br />&bull; Ribbed crew neck with set-in sleeves<br />&bull; Form fitting</p>\\n<div class=\\\"table-responsive dynamic\\\" data-unit-system=\\\"imperial\\\">&nbsp;</div>",
+            "product_weight__c": 0,
+            "shipping_weight__c": 0,
+            "dryice_weight__c": 0,
+            "hazardous_flag__c": false,
+            "coolerpak_flag__c": false,
+            "shipped_individually__c": false,
+            "dryice__c": false,
+            "ship_separately__c": false,
+            "ground_flag__c": false,
+            "overnight_flag__c": false,
+            "attributes": {
+                "type": "cc_product__c",
+                "referenceId": "cc_product__cRef2"
+            },
+            "cc_featured_product__c.product__c__r": {
+                "records": [
+                    {
+                        "name": "特色1",
+                        "sequence__c": 0,
+                        "enabled__c": true,
+                        "storefront__c": "moren",
+                        "type__c": "Featured",
+                        "attributes": {
+                            "type": "cc_featured_product__c",
+                            "referenceId": "cc_featured_product__cRef2"
+                        }
+                    }
+                ]
+            },
+            "cc_product_category__c.product__c__r": {
+                "records": []
+            },
+            "cc_product_guide__c.product__c__r": {
+                "records": []
+            },
+            "cc_product_media__c.product__c__r": {
+                "records": [
+                    {
+                        "filepath__c": "https://cdn11.bigcommerce.com/s-7buacsh1p4/images/stencil/original/products/117/396/mockup-521d0b16__86945__80943.1610347035.png",
+                        "enabled__c": true,
+                        "sequence__c": 0,
+                        "product_media_source__c": "url",
+                        "url__c": "https://cdn11.bigcommerce.com/s-7buacsh1p4/images/stencil/original/products/117/396/mockup-521d0b16__86945__80943.1610347035.png",
+                        "name": "M-00003",
+                        "attributes": {
+                            "type": "cc_product_media__c",
+                            "referenceId": "cc_product_media__cRef3"
+                        }
+                    }
+                ]
+            },
+            "cc_product_spec__c.product__c__r": {
+                "records": []
+            },
+            "cc_product_storefront__c.product__c__r": {
+                "records": []
+            },
+            "cc_product_tab__c.product__c__r": {
+                "records": [
+                    {
+                        "sequence__c": 0,
+                        "tab__c": "Specifications",
+                        "enabled__c": true,
+                        "name": "TAB-00002",
+                        "attributes": {
+                            "type": "cc_product_tab__c",
+                            "referenceId": "cc_product_tab__cRef3"
+                        }
+                    },
+                    {
+                        "sequence__c": 0,
+                        "tab__c": "Product_Info",
+                        "enabled__c": false,
+                        "name": "TAB-00003",
+                        "attributes": {
+                            "type": "cc_product_tab__c",
+                            "referenceId": "cc_product_tab__cRef4"
+                        }
+                    },
+                    {
+                        "sequence__c": 0,
+                        "tab__c": "Shipping_Info",
+                        "enabled__c": true,
+                        "name": "TAB-00004",
+                        "attributes": {
+                            "type": "cc_product_tab__c",
+                            "referenceId": "cc_product_tab__cRef5"
+                        }
+                    }
+                ]
+            },
+            "cc_review__c.product__c__r": {
+                "records": []
+            },
+            "cc_rule_source_sku__c.product__c__r": {
+                "records": []
+            },
+            "cc_subprodterm__c.product__c__r": {
+                "records": []
+            },
+            "cc_attribute__c.primary_attribute__c__r": {
+                "records": []
+            },
+            "cc_attribute__c.secondary_attr__c__r": {
+                "records": []
+            },
+            "cc_attribute__c.tertiary_attr__c__r": {
+                "records": []
+            }
+        }
+    ]
+}
